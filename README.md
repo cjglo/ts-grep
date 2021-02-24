@@ -1,2 +1,2 @@
 # tbd-cl-tool
-Haven't decided, but I want to mix my new rust std::env knowledge with my bash knowledge and make something fun.  
+Haven't decided exact nature of the command tool I will build, but after the rust book went through recreating grep with rust, I decided to try something similar out with typescript.
