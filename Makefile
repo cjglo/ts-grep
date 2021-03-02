@@ -1,4 +1,5 @@
 main:
-	read var1
-# 	tsc index.ts
-	node index.js var1
+	ts-node index,ts
+
+js:
+	tsc index.ts
