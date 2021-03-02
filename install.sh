@@ -1,2 +1,3 @@
 
-# To do: Need to add an alias to zshell to run command
+# May include bash script to install command as global
+# curretnly undecided
