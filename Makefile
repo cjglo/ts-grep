@@ -1,5 +1,5 @@
 main:
-	ts-node index,ts
+	ts-node command.ts
 
 js:
-	tsc index.ts
+	tsc command.ts
