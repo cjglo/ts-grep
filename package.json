@@ -2,9 +2,10 @@
   "name": "ts-grep",
   "version": "1.0.0",
   "description": "TypeScript impl Grep",
-  "main": "index.js",
+  "main": "func.js",
   "scripts": {
-    "test": "test"
+    "test": "",
+    "run": "node func.js"
   },
   "repository": {
     "type": "git",

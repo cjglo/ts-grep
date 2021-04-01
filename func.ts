@@ -1,5 +1,5 @@
-// import fs = require('fs');
-// import { readFileSync } from 'fs';
+import fs = require('fs');
+import { readFileSync } from 'fs';
 
 export function grep_case_sensitive(query: String, file: String) {
 
